@@ -1,10 +1,10 @@
 module.exports = {
   ownerUsernames: ["MOHAMMADNAYAN"],//Your Username
   ownerNumber: "+8801615298449",//Your Number
-  autoUpdate: false,
+  autoUpdate: true,
   admin: ["5920596290"], // your id
   prefix: "/", // dont change prefix 
-  telegramBotToken: "7693032113:AAF4irS4PwfR2Dgu9s5HBGxIPIAlQpBAsnk",//Your Bot Tokens
+  telegramBotToken: "your bot token",//Your Bot Tokens
   imageUrl: "https://i.postimg.cc/WpmJhNVg/received-383729254132460.jpg",//Thumbnail Url
   port: process.env.PORT || 8053 || 8053, // port
   mess: {
