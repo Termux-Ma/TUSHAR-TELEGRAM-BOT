@@ -1,4 +1,4 @@
-# 🚀 Nayan Telegram Bot  
+# 🚀 Tushar Telegram Bot  
 A powerful, modular and premium Telegram bot built using **Node.js**, featuring plugins, dynamic keyboards, AI tools, updates, and full group management.
 
 ---
@@ -77,8 +77,8 @@ config.js
 Add:
 ```js
 module.exports = {
-  ownerUsernames: ["MOHAMMADNAYAN"],//Your Username
-  ownerNumber: "+8801615298449",//Your Number
+  ownerUsernames: ["ARISHAHMEDTUSHAR"],//Your Username
+  ownerNumber: "+8801758269324",//Your Number
   autoUpdate: true,
   admin: ["admin id"], // your id
   prefix: "/", // dont change prefix 
@@ -189,10 +189,10 @@ Check logs → problem is shown in terminal.
 ## 📞 Contact
 
 **Developer:**  
-👤 Mohammad Nayan  
-📱 WhatsApp: wa.me/+8801615298449  
-🔗 Telegram: @MOHAMMADNAYAN  
-💻 Facebook: facebook.com/profile.php?id=100000959749712  
+👤 Mohammad Tushar 
+📱 WhatsApp: wa.me/+8801758269324
+🔗 Telegram: @ARISHAHMEDTUSHAR 
+💻 Facebook: (https://www.facebook.com/arishahmedtushar287)  
 
 ---
 
