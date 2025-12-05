@@ -4,7 +4,7 @@ module.exports = {
   autoUpdate: true,
   admin: ["7159426600"], // your id
   prefix: "/", // dont change prefix 
-  telegramBotToken: "your bot token",//Your Bot Tokens
+  telegramBotToken: "8064641618:AAHn0KP0WzboSJicv-NpAHyOjYmg-0g2Teo",//Your Bot Tokens
   imageUrl: "https://i.postimg.cc/WpmJhNVg/received-383729254132460.jpg",//Thumbnail Url
   port: process.env.PORT || 8053 || 8053, // port
   mess: {
